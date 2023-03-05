@@ -111,11 +111,11 @@ namespace actividad07
                     Console.WriteLine("2. Marca: Paul & Shark");
                     Console.WriteLine("3. Marca: Original Penguin");
                     opcPrenda= Convert.ToInt32(Console.ReadLine());
-                    while ( opcPrenda > 4)
+                    while ( opcPrenda < 4)
                     {
                         if (opcPrenda == 1)
-                        {
-                            Console.Clear();
+                        { 
+                            //Console.Clear();
                             Console.WriteLine("--- Informacion " + Nombre + " ---\n");
                             Diseno = "Cuello en V";
                             Caracteristicas = "Color: Negro.\n Sin estampados\n Marca: Lacoste";
@@ -124,9 +124,10 @@ namespace actividad07
                             Console.WriteLine("\n");
                             Console.WriteLine("Escriba cual es la talla que desea su " + Nombre);
                             Size = Console.ReadLine();
-                            opcPrenda = 5;
                             Console.WriteLine("**** PROCESANDO SU PEDIDO ****");
+                            
                             Console.ReadLine();
+                            opcPrenda = 5;
                         }
                         else if (opcPrenda == 2)
                         {
@@ -139,8 +140,8 @@ namespace actividad07
                             Console.WriteLine("\n");
                             Console.WriteLine("Escriba cual es la talla que desea su " + Nombre);
                             Size = Console.ReadLine();
-                            opcPrenda = 5;
                             Console.WriteLine("**** PROCESANDO SU PEDIDO ****");
+                            opcPrenda = 5;
                             Console.ReadLine();
                         }
                         else if (opcPrenda == 3)
@@ -154,9 +155,10 @@ namespace actividad07
                             Console.WriteLine("\n");
                             Console.WriteLine("Escriba cual es la talla que desea su " + Nombre);
                             Size = Console.ReadLine();
-                            opcPrenda = 5;
                             Console.WriteLine("**** PROCESANDO SU PEDIDO ****");
+                            opcPrenda = 5;
                             Console.ReadLine();
+                            
                         }
                     }
                     break;
@@ -227,7 +229,7 @@ namespace actividad07
                     Console.WriteLine("2. Marca: Musier");
                     Console.WriteLine("3. Marca: Marcia");
                     opcPrenda = Convert.ToInt32(Console.ReadLine());
-                    while (opcPrenda > 4)
+                    while (opcPrenda < 4)
                     {
                         if (opcPrenda == 1)
                         {
@@ -285,7 +287,7 @@ namespace actividad07
                     Console.WriteLine("2. Marca: Victoria Secret");
                     Console.WriteLine("3. Marca: Derek");
                     opcPrenda = Convert.ToInt32(Console.ReadLine());
-                    while (opcPrenda > 4)
+                    while (opcPrenda < 4)
                     {
                         if (opcPrenda == 1)
                         {
@@ -362,7 +364,7 @@ namespace actividad07
                     Console.WriteLine("2. Marca: Tom Tailor");
                     Console.WriteLine("3. Marca: Tommy");
                     opcPrenda = Convert.ToInt32(Console.ReadLine());
-                    while (opcPrenda > 4)
+                    while (opcPrenda < 4)
                     {
                         if (opcPrenda == 1)
                         {
@@ -478,7 +480,7 @@ namespace actividad07
                     Console.WriteLine("2. Marca: Chanel");
                     Console.WriteLine("3. Marca: Givenchy");
                     opcPrenda = Convert.ToInt32(Console.ReadLine());
-                    while (opcPrenda > 4)
+                    while (opcPrenda < 4)
                     {
                         if (opcPrenda == 1)
                         {
@@ -523,7 +525,6 @@ namespace actividad07
                             Size = Console.ReadLine();
                             opcPrenda = 5;
                             Console.WriteLine("**** PROCESANDO SU PEDIDO ****");
-                            Recibo();
                             Console.ReadLine();
                         }
                     }
@@ -614,7 +615,7 @@ namespace actividad07
                     Console.WriteLine("2. Marca: Gucci");
                     Console.WriteLine("3. Marca: Balenciaga");
                     opcPrenda = Convert.ToInt32(Console.ReadLine());
-                    while (opcPrenda > 4)
+                    while (opcPrenda < 4)
                     {
                         if (opcPrenda == 1)
                         {
@@ -730,7 +731,7 @@ namespace actividad07
                     Console.WriteLine("2. Marca: Burberry");
                     Console.WriteLine("3. Marca: Yves Saint Laurent");
                     opcPrenda = Convert.ToInt32(Console.ReadLine());
-                    while (opcPrenda > 4)
+                    while (opcPrenda < 4)
                     {
                         if (opcPrenda == 1)
                         {
@@ -788,7 +789,7 @@ namespace actividad07
                     Console.WriteLine("2. Marca: Nice Laundry");
                     Console.WriteLine("3. Marca: Polo Ralph Lauren");
                     opcPrenda = Convert.ToInt32(Console.ReadLine());
-                    while (opcPrenda > 4)
+                    while (opcPrenda < 4)
                     {
                         if (opcPrenda == 1)
                         {

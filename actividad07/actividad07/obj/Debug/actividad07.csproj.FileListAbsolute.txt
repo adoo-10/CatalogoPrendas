@@ -6,3 +6,11 @@ C:\Users\adoX1\OneDrive\Documents\VisualStudio\actividad07\actividad07\obj\Debug
 C:\Users\adoX1\OneDrive\Documents\VisualStudio\actividad07\actividad07\obj\Debug\actividad07.csproj.CoreCompileInputs.cache
 C:\Users\adoX1\OneDrive\Documents\VisualStudio\actividad07\actividad07\obj\Debug\actividad07.exe
 C:\Users\adoX1\OneDrive\Documents\VisualStudio\actividad07\actividad07\obj\Debug\actividad07.pdb
+C:\Users\adoX1\OneDrive\Documents\GitHub\CatalogoPrendas\actividad07\actividad07\bin\Debug\actividad07.exe.config
+C:\Users\adoX1\OneDrive\Documents\GitHub\CatalogoPrendas\actividad07\actividad07\bin\Debug\actividad07.exe
+C:\Users\adoX1\OneDrive\Documents\GitHub\CatalogoPrendas\actividad07\actividad07\bin\Debug\actividad07.pdb
+C:\Users\adoX1\OneDrive\Documents\GitHub\CatalogoPrendas\actividad07\actividad07\obj\Debug\actividad07.csproj.AssemblyReference.cache
+C:\Users\adoX1\OneDrive\Documents\GitHub\CatalogoPrendas\actividad07\actividad07\obj\Debug\actividad07.csproj.SuggestedBindingRedirects.cache
+C:\Users\adoX1\OneDrive\Documents\GitHub\CatalogoPrendas\actividad07\actividad07\obj\Debug\actividad07.csproj.CoreCompileInputs.cache
+C:\Users\adoX1\OneDrive\Documents\GitHub\CatalogoPrendas\actividad07\actividad07\obj\Debug\actividad07.exe
+C:\Users\adoX1\OneDrive\Documents\GitHub\CatalogoPrendas\actividad07\actividad07\obj\Debug\actividad07.pdb
